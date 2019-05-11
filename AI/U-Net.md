@@ -16,7 +16,7 @@ CS231n 11강에서 말했던데로, 이미지 세그멘테이션을 위해서는
 #### Contracting Path, Expanding Path
 ![](https://postfiles.pstatic.net/MjAxODA4MDZfOSAg/MDAxNTMzNTUyMzUxMjI0.BGLNzpU6JtmP8Jy43qpgLaSzAUWTCdtOiBSkFERltxcg.JZPXg332u0zTZLCv_OM0WYtdrgJQ7QzAba-zcrN1K14g.PNG.worb1605/image.png?type=w773)
 
-* Contractin Path   
+* Contracting Path   
   * 이미지를 줄여 나가는 부분
 * Expanding Path
   * 이미지를 키워나가는 부분
